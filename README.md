@@ -96,3 +96,8 @@ $$FinalScore = \sum (Z_i \cdot w_i)$$
 
 * **Score < 1.5:** Verified (Access Granted).
 * **Score ≥ 1.5:** Anomaly (Access Denied).
+```
+```
+### DEMO:
+<video src="https://github.com/user-attachments/assets/d49b6f72-ca82-469a-9943-eca48a2bffe8" controls width="600"></video>
+
