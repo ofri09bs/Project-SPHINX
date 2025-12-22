@@ -1,4 +1,4 @@
-# 🦁 Project SPHINX: Behavioral Biometric authentication system
+# Behavioral Biometric authentication system
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
 ![Security](https://img.shields.io/badge/Type-Behavioral_Biometrics-green.svg)
